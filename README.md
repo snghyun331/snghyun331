@@ -3,5 +3,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snghyun331&layout=donut&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snghyun331)](https://github.com/eungyeole/velog-readme-stats)
 
