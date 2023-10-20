@@ -48,7 +48,6 @@
 <div align=center>
 	<h3>📊Stats📊</h3>
 </div>
-<br>
 <div align=center>
 	<p align="center">
 		<img align="center" height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=snghyun331&layout=compact&theme=rose_pine&hide=jupyter%20notebook"" />		
