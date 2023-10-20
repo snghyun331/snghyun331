@@ -8,7 +8,7 @@
 </div>
 
 <div align=center>
-	<h3>📚Tech Stacks📚</h3>
+	<h3>📚Tech Stacks</h3>
 	<p><strong>Have Used</strong></p>
 </div>
 <div align=center>
@@ -46,7 +46,7 @@
 </div>
 
 <div align=center>
-	<h3>📊Stats📊</h3>
+	<h3>📊Stats</h3>
 </div>
 <div align=center>
 	<p align="center">
