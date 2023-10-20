@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&height=160&color=auto&text=snghyun%20Github🐣&fontSize=60&animation=twinkling" />	
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&height=130&color=auto&text=snghyun%20Github🐣&fontSize=60&animation=twinkling" />	
 </div>
 
 <div align=center>
@@ -8,11 +8,11 @@
   <p>I've experienced in Data-analysis and AI prediction model development.</p>
 </div>
 
-<br>
-
 <div align=center>
 	<h3>📚Tech Stacks📚</h3>
 	<p><strong>Have Used</strong></p>
+</div>
+<div align=center>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=SQL&logoColor=white" />
@@ -34,19 +34,33 @@
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
 	<img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
 	<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />	
-	<br>
-	<br>
+</div>
+<br>
+<div align=center>
 	<p><strong>Studying</strong></p>
+</div>
+<div align=center>
  	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
   	<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white" />
    	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 </div>
 
-
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snghyun331&layout=donut&hide=Jupyter%20Notebook />	
+	<h3>📊Stats📊</h3>
 </div>
+<br>
+<div align=center>
+	<p align="center">
+  <a href="https://github.com/snghyun331">
+    <img align="center" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=snghyun331&layout=donut&theme=rose_pine&hide=jupyter%20notebook" />
+  </a>
+  <a href="https://github.com/snghyun331">
+    <img align="center" height=170 src="https://github-readme-stats.vercel.app/api?username=snghyun331&hide=${가릴항목}&theme=rose_pine" />
+  </a>
+</p>
+
+
 
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snghyun331&layout=donut&hide=Jupyter%20Notebook)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/snghyun331))
