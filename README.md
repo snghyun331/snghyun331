@@ -51,11 +51,9 @@
 <br>
 <div align=center>
 	<p align="center">
-    <img align="center" height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=snghyun331&layout=donut&theme=rose_pine&hide=jupyter%20notebook" />
-  </a>
-    <img align="center" height=165 src="https://github-readme-stats.vercel.app/api?username=snghyun331&hide=${가릴항목}&theme=rose_pine" />
-  </a>
-</p>
+		<img align="center" height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=snghyun331&layout=compact&theme=rose_pine&hide=jupyter%20notebook"" />		
+		<img align="center" height=165 src="https://github-readme-stats.vercel.app/api?username=snghyun331&hide=${가릴항목}&theme=rose_pine" />
+	</p>
 </div>
 <div align=center>
 	<h3>✍Velog</h3>
