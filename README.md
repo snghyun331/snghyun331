@@ -4,8 +4,7 @@
 
 <div align=center>
 	<h3>Hello!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /></h3>
-	<p>I'm Senghyun Lee, working towards becoming a <strong>Back Engineer</strong>.💪</p> 
-	<p>I've experienced in Data-analysis and AI prediction model development.</p>
+	<p>I'm Senghyun Lee, working towards becoming a <strong>Back Engineer</strong>.💪 <br> I've experienced in Data-analysis and AI prediction model development.</p> 
 </div>
 
 <div align=center>
@@ -59,8 +58,11 @@
 </p>
 </div>
 <div align=center>
-	<h3>✍Blog</h3>
+	<h3>✍Velog</h3>
 </div>
 <div align=center>
-	[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=snghyun331)](https://velog.io/@snghyun331) 
+https://velog.io/@snghyun331
+	
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snghyun331)](https://velog.io/@snghyun331)
+
 </div>
