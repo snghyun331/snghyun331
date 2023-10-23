@@ -26,6 +26,7 @@
 	<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 	<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git LFS-F64935?style=flat&logo=gitlfs&logoColor=white" />
@@ -41,8 +42,7 @@
 <div align=center>
  	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
   	<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white" />
-   	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+   	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />	
 </div>
 
 <div align=center>
