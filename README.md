@@ -31,6 +31,7 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git LFS-F64935?style=flat&logo=gitlfs&logoColor=white" />
 	<br>
+	<img src="https://img.shields.io/badge/Beautifulsoup-43B02A?style=flat" />
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
 	<img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
 	<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />	
