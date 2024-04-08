@@ -4,7 +4,7 @@
 
 <div align=center>
 	<h3>Hello!  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /></h3>
-	<p>I'm Senghyeon Lee, working towards becoming a <strong>Backend Engineer</strong>.💪 <br> I've experienced in Data-analysis and AI prediction model development.</p> 
+	<p>I'm Senghyeon Lee, working as a <strong>junior backend developer</strong>.💪 <br> I've experienced in Data-analysis and AI prediction model development.</p> 
 </div>
 
 <div align=center>
