@@ -38,22 +38,3 @@
 	<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />	
 </div>
 <br>
-
-
-<div align=center>
-	<h3>📊Stats</h3>
-</div>
-<div align=center>
-	<p align="center">
-		<img align="center" height=165 src="https://github-readme-stats.vercel.app/api?username=snghyun331&hide=${가릴항목}&theme=rose_pine" />
-	</p>
-</div>
-<div align=center>
-	<h3>✍Velog</h3>
-</div>
-<div align=center>
-https://velog.io/@snghyun331
-	
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snghyun331)](https://velog.io/@snghyun331)
-
-</div>
